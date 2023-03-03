@@ -16,7 +16,7 @@ int [] IntNum(int n)
     }
     return result;
 }
-
+ 
 Random rnd = new Random();
 int n = rnd.Next(1,10);
 
